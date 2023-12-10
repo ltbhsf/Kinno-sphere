@@ -1,0 +1,28 @@
+.wrapper{
+    /* border: solid black; */
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    padding: 57px 0 30px 0;
+    justify-content: space-between;
+
+}
+
+.user-related{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 230px;
+    width: 100%;
+    /* border: solid black; */
+    justify-content: space-between;
+}
+
+.team-related{
+    /* background-color: brown; */
+    display: flex;
+    flex-direction: column;
+
+}

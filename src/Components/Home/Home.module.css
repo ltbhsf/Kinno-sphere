@@ -1,0 +1,24 @@
+.my{
+    /* background-color: red; */
+    border: solid red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 220px;
+}
+
+
+.teams{
+    position: absolute;
+    left: 220px;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    /* background-color: black; */
+    border: solid blue;
+}
